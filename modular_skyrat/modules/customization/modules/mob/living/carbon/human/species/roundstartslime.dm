@@ -12,3 +12,4 @@
 	coldmod = 3
 	heatmod = 1
 	burnmod = 1
+	species_language_holder = /datum/language_holder/slimehybrid
